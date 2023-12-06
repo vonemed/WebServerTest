@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlCDwMxR+VsRiTDr6hoQEgchTwCP8cJVLwkW94G/Rof9sMJfFvNT2oGpDsAw/bDvQtlIUN2DoqBcARrVXDc6lQ==",
+  "success": true,
+  "projectFilePath": "/Users/gleb/Documents/WebServer/SharedLibrary/SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/gleb/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

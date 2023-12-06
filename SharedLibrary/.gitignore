@@ -1,0 +1,63 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/bin/Debug/net6.0/SharedLibrary.deps.json
+/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/obj/Debug/net6.0/SharedLibrary.GlobalUsings.g.cs
+/obj/Debug/net6.0/SharedLibrary.assets.cache
+/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/obj/Debug/net6.0/SharedLibrary.csproj.FileListAbsolute.txt
+/obj/rider.project.restore.info
